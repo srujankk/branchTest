@@ -1,8 +1,10 @@
 Initial readme
 
 +------------------------------+
+ Feature 1 implementation
++------------------------------+
+
++------------------------------+
  Feature 2 implementation
 +------------------------------+
-=======
-feature1 implementations
 
