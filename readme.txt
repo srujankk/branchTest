@@ -14,8 +14,9 @@ Initial readme
 + DEV Environment              +
 +------------------------------+
  Feature 3 implementation
-+------------------------------+
-
++----------------------------------+
+ Feature 3 + patch 1 implementation
++----------------------------------+
 
 
 
