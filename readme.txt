@@ -15,4 +15,5 @@ Initial readme
 +------------------------------+
  Feature 3 implementation
 +------------------------------+
-
+ Feature 3.1 implementation
++------------------------------+
