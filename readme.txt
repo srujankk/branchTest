@@ -16,7 +16,9 @@ Initial readme
  Feature 3 implementation
 +------------------------------+
  Feature 3.1 implementation
-+------------------------------+
++----------------------------------+
+ Feature 3 + patch 1 implementation
++----------------------------------+
 
 
 
